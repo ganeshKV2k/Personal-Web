@@ -28,6 +28,9 @@
 
 
 
+
+    
+
 <form action="submit.php" method="POST">
     <label for="name">Name:</label>
 <input type="text" id="name" name="name"><br><br>
